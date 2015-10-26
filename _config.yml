@@ -1,8 +1,7 @@
+name: BACKSEAT Co.
 favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.179914
+typography_spectrum: 0.377551
 collections:
   - index:
       path: /
@@ -15,24 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BACKSEAT co.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     url: null
     item: null
-typography_spectrum: 0.377551
-color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 0.5
-  brandColors: []
-  lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.179914
-name: BACKSEAT Co.
